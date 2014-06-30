@@ -1,6 +1,10 @@
 OffensiveFirewall
 =================
 
+#### Features:
+- Filters with word modifiers "ing|es|ed|s|ey|y|iest|er|ers". Does not "stem" words.
+
+
 
 #### Usage:
 ```
